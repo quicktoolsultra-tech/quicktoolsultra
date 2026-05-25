@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://quicktoolsultra.com">
-    <img src="assets/banner.png" alt="QuickToolsUltra Banner" width="100%">
+    <img src="banner.png.png" alt="QuickToolsUltra Banner" width="100%">
   </a>
 </p>
 🌐 Live Website: https://www.quicktoolsultra.com
