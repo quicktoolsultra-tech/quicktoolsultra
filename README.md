@@ -181,13 +181,21 @@ into one powerful online platform.
 # 📷 Screenshots
 
 ## Homepage
-_Add screenshots here_
+<p align="center">
+  <a href="https://quicktoolsultra.com">
+    <img src="homepage.png.png" alt="QuickToolsUltra Banner" width="100%">
+  </a>
+</p>
 
 ## Dashboard
 _Add screenshots here_
 
 ## Tools Interface
-_Add screenshots here_
+<p align="center">
+  <a href="https://www.quicktoolsultra.com/image-compressor.html">
+    <img src="interface.png" alt="QuickToolsUltra Banner" width="100%">
+  </a>
+</p>
 
 ---
 
