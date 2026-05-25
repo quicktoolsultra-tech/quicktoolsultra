@@ -2,8 +2,11 @@
 
 > All-in-One Modern Online Toolkit Platform for Everyday Productivity
 
-![QuickToolsUltra Banner](https://via.placeholder.com/1200x400?text=QuickToolsUltra)
-
+<p align="center">
+  <a href="https://quicktoolsultra.com">
+    <img src="assets/banner.png" alt="QuickToolsUltra Banner" width="100%">
+  </a>
+</p>
 🌐 Live Website: https://www.quicktoolsultra.com
 
 ---
